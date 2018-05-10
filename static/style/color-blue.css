@@ -1,0 +1,237 @@
+.header {
+	background-color: #1E202A;
+	color: #FFFFFF;
+}
+
+.login-wrap {
+	background: rgba(56, 157, 170, 0.82);
+	;
+}
+
+.plugins-tips {
+	background: #f2f2f2;
+}
+
+.plugins-tips a {
+	color: #F9690E;
+}
+
+.el-upload--text em {
+	color: #F9690E;
+}
+
+.pure-button {
+	background: #F9690E;
+}
+
+
+
+.pagination>.active>a,
+.pagination>.active>a:hover,
+.pagination>.active>a:focus,
+.pagination>.active>span,
+.pagination>.active>span:hover,
+.pagination>.active>span:focus {
+	background-color: #F9690E !important;
+	border-color: #F9690E !important;
+}
+
+
+
+
+/*注册样式*/
+
+.step1 {
+	width: 850px;
+	margin: 50px auto;
+}
+
+.step1-content {
+	width: 100%;
+	height: 400px;
+	overflow-y: auto;
+	text-align: left;
+	line-height: 1.8;
+	font-size: 16px;
+	padding: 10px;
+	background-color: #FFFFFF;
+}
+
+.step2 {
+	height: 400px;
+	margin: 50px auto;
+	background-color: #FFFFFF;
+}
+
+.step2 .phoneForm {
+	width: 350px;
+	margin: 0 auto;
+	padding-top: 120px;
+}
+
+.step3 {
+	height: 500px;
+	margin: 50px auto;
+	background-color: #FFFFFF;
+}
+
+.step3 .phoneForm {
+	width: 350px;
+	margin: 0 auto;
+	padding-top: 40px;
+}
+
+.step3 .tips,
+.step3 .account-name {
+	margin-bottom: 15px;
+}
+
+.step3 .account-name b {
+	color: #F9690E;
+}
+
+.step3 .scan-code-box {
+	width: 350px;
+	margin: 0 auto;
+}
+.step3 .account-msg{
+	text-align: center;
+}
+.step3 .no-account{
+	margin-top: 90px;
+}
+.step3 .scan-code-box span {
+	display: inline-block;
+}
+
+.step3 .scan-code {
+	float: left;
+	margin-top: 30px;
+	font-size: 14px;
+}
+
+.step3 .no-account .phoneForm {
+	padding-top: 150px;
+}
+
+.step4 {
+	height: 400px;
+	margin: 50px auto;
+	text-align: center;
+	background-color: #FFFFFF;
+}
+
+.step4 .hint {
+	margin-top: 150px;
+	color: #474951;
+	line-height: 40px;
+}
+
+.registe-title {
+	color: #FFFFFF;
+	font-size: 30px;
+	text-align: center;
+}
+
+.register-container {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	background-color: #1E202A;
+}
+
+.reg-btn-group {
+	text-align: center;
+}
+
+.register-wrapper {
+	width: 900px;
+	margin: 50px auto;
+}
+
+.el-button:active {
+	border-color: #CC4E00;
+	/*background: #CC4E00!important;*/
+}
+
+.el-button--default {
+	background: transparent!important;
+	color: #FFFFFF;
+}
+
+
+.el-button--primary:hover{
+	border-color:#FB820B!important;
+	background: #FB820B!important;;
+	color: #FFFFFF!important;
+}
+
+.el-button.is-disabled,
+.el-button.is-disabled:hover,
+.el-button.is-disabled:active {
+	background-color: #C2C2C5!important;
+	border-color: #C2C2C5!important;
+	color: #FFFFFF!important;
+}
+.el-dialog__headerbtn:focus .el-dialog__close, .el-dialog__headerbtn:hover .el-dialog__close,
+.el-pagination button:hover,
+.el-message-box__headerbtn:focus .el-message-box__close, .el-message-box__headerbtn:hover .el-message-box__close{
+	color:#F9690E!important;
+}
+
+.el-button--primary{
+	border-color: #F9690E!important;;
+	background: #F9690E!important;;
+	color: #FFFFFF!important;
+}
+.vue-datasource .btn-primary {
+	color: #fff;
+	background: #F9690E !important;
+	border-color: #F9690E !important;
+}
+
+.step-group{
+	height: 50px;
+	margin: 80px auto 0;
+	width: 700px;
+}
+.step-group .step-item{
+	position: relative;
+	float: left;
+	width: 17%;
+	border-top: 3px #C2C2C5 solid;
+}
+.step-group .step-item2,
+.step-group .step-item3{
+	width: 33%;	
+}
+.step-group .step-item .num{
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	border-radius: 100%;
+	background-color: #C2C2C5;
+	font-size: 14px;
+	color: #FFFFFF;
+	text-align: center;
+	line-height: 30px;
+	display: block;
+	top: -16px;
+}
+.step-group .step-item1 .num{
+	left: 0;
+	
+}
+.step-group .step-item2 .num,
+.step-group .step-item3 .num{
+	left: 100px;
+}
+.step-group .step-item4 .num{
+	right: 0;
+}
+.step-group .step-active{
+	border-color: #F9690E;
+}
+.step-group .step-active .num{
+	background-color: #F9690E;
+}

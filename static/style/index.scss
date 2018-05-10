@@ -1,0 +1,271 @@
+.member-info {
+  position: relative;
+  width: 600px;
+  height: 350px;
+  margin: 30px auto;
+  padding: 40px;
+  box-sizing: border-box;
+  box-shadow: 1px 2px 5px 2px #DDDDDD;
+}
+
+.result-list {
+  position: relative;
+  width: 600px;
+  max-height: 300px;
+  overflow: auto;
+  margin: 0 auto;
+  border: 1px solid #dcdfe6;
+  margin-top: -2px;
+  z-index: 3;
+  background-color: #ffffff;
+  border-bottom: 0;
+  box-sizing: border-box;
+  color: #666666;
+}
+
+.sale-class{
+  box-shadow:none;
+  border:1px solid #dcdfe6;
+  padding:0;
+  .sale-header{
+    height: 50px;
+    width:100%;
+    .status{
+      display: block;
+      padding: 8px 12px;
+      background-color: #f9690e;
+      color: #ffffff;
+      font-size:14px;
+    }
+    .icon{
+      margin:8px;
+      .el-icon-close{
+        font-size:18px;
+        color: #666666;
+      }
+    }
+  }
+  .info-section{
+    width:200px;
+    margin:10px auto;
+    .user-photo{
+      text-align: center;
+      font-size:20px;
+      p{
+        margin-top:10px;
+      }
+    }
+    .user-info{
+      margin-top:10px;
+      .item{
+        font-size:14px;
+        line-height: 24px;
+        height: 24px;
+        span{
+          display: inline-block;
+          width:80px;
+          text-align: right;
+        }
+      }
+    }
+  }
+  .info-footer{
+    margin-top:25px;
+    .btn-item{
+      float: left;
+      display: block;
+      width:199px;
+      height:40px;
+      line-height: 40px;
+      text-align: center;
+      border-top:1px solid #dcdfe6;
+      border-right:1px solid #dcdfe6;
+      box-sizing: border-box;
+      font-size:14px;
+      color: #333333;
+      &:last-child{
+        border-right:none;
+        width:200px;
+      }
+      &:hover{
+        color: #f9690e;
+      }
+    }
+  }
+}
+.el-tabs__header{
+  margin:0;
+}
+.class-list{
+  width:50%;
+  border-right:1px solid #dcdfe6;
+  box-sizing: border-box;
+  .data-list{
+    .class-item{
+      width:190px;
+      margin:0 20px 15px 0;
+      border:1px solid #dcdfe6;
+      padding: 5px 10px;
+      line-height: 20px;
+      .price{
+        color: #ff0000;
+      }
+    }
+  }
+}
+
+.active-list{
+  width:50%;
+  height: 550px;
+  overflow: auto;
+  padding-top: 20px;
+  .notActive{
+    margin:250px auto;
+    text-align: center;
+    .icon{
+      font-size:70px;
+      color: #CCCCCC;
+    }
+    .font{
+      font-size:16px;
+    }
+  }
+  .el-form-item--mini{
+    margin-bottom: 15px;
+  }
+}
+.hr{
+  margin-bottom:10px;
+  border-top:1px solid #dcdfe6;
+  height: 2px;
+  width:100%;
+}
+.affirm-title{
+  height:50px;
+  line-height: 50px;
+  padding: 0 20px 10px;
+  border-bottom: 1px solid #CCCCCC;
+  .el-button{
+    font-size:14px;
+    &:hover{
+      border-color: #f9690e;
+      color: #f9690e;
+    }
+  }
+  .title{
+    font-size:16px;
+    margin-left:20px;
+  }
+
+}
+.affirm-container{
+  height: 550px;
+  .class-list,.active-list{
+    height:100%;
+    padding-top: 0;
+    dt.item-title{
+      background-color: #eeeeee;
+    }
+    .item-title{
+      height:50px;
+      line-height: 50px;
+      .item-name{
+        display: inline-block;
+        width:50%;
+        padding-left: 30px;
+        box-sizing: border-box;
+      }
+
+    }
+  }
+  .active-list{
+    .item-name:last-child{
+      text-align: right;
+      padding-right:30px;
+      color: red;
+    }
+    .pay-info{
+      padding: 15px 30px;
+      .user-msg{
+
+      }
+      .pay-mode{
+        margin-top:20px;
+        .payfont{
+          display: block;
+          width:90px;
+          height:300px;
+          float: left;
+          text-align: right;
+        }
+      }
+      .el-radio-group{
+        width:300px;
+        float: left;
+        .el-radio+.el-radio{
+          margin-left:0;
+        }
+        .el-radio{
+          width:150px;
+          margin-bottom: 30px;
+          margin-top:5px;
+        }
+      }
+      .el-button{
+        margin-left:150px;
+      }
+    }
+  }
+}
+.paySuccessDialog{
+  .success-header{
+    font-size:18px;
+    color: #f9690e;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .pay-success-info{
+    width:400px;
+    margin:0 auto;
+    .info-item{
+      line-height: 30px;
+      span{
+        display: inline-block;
+        &:first-child{
+          width:150px;
+        }
+        &:last-child{
+          text-align: right;
+          width:240px;
+        }
+      }
+    }
+
+    .ddhr{
+      width:100%;
+      height:2px;
+      border-top:1px dotted #CCCCCC;
+      margin:10px 0;
+    }
+  }
+  .btn-box{
+    border-top: 1px solid #dcdfe6;
+    padding-top: 30px;
+    text-align: center;
+    margin-top:50px;
+  }
+}
+.buy-record{
+  font-size:14px;
+  dt,dd{
+    line-height: 30px;
+    padding:10px 30px;
+    border-bottom:1px solid #dcdfe6;
+    .price{
+      color: #ff0000;
+    }
+  }
+}
+.group-msg-info{
+  border-top:1px solid #dcdfe6;
+}
