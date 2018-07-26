@@ -1,0 +1,1352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="10cc30e7-5a8a-480d-b939-0b38c47055db" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="weidu_erp" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="gymList.vue" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/page/fitnessRoom/gymList.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="548">
+              <caret line="1301" column="23" lean-forward="true" selection-start-line="1301" selection-start-column="23" selection-end-line="1301" selection-end-column="23" />
+              <folding>
+                <element signature="n#div#1;n#div#0;n#template#0;n#!!top" expanded="false" />
+                <element signature="n#el-table#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#el-tab-pane#0;n#el-tabs#0;n#el-dialog#0;n#div#3;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-table#0;n#el-tab-pane#0;n#el-tabs#0;n#el-dialog#0;n#div#3;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-tab-pane#1;n#el-tabs#0;n#el-dialog#0;n#div#3;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-tab-pane#0;n#el-tabs#0;n#el-tab-pane#1;n#el-tabs#0;n#el-dialog#0;n#div#3;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-table#0;n#el-tab-pane#0;n#el-tabs#0;n#el-tab-pane#1;n#el-tabs#0;n#el-dialog#0;n#div#3;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#template#0;n#el-table-column#1;n#el-table#0;n#el-tab-pane#0;n#el-tabs#0;n#el-tab-pane#1;n#el-tabs#0;n#el-dialog#0;n#div#3;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#template#0;n#el-table-column#6;n#el-table#0;n#el-tab-pane#0;n#el-tabs#0;n#el-tab-pane#1;n#el-tabs#0;n#el-dialog#0;n#div#3;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-tab-pane#1;n#el-tabs#0;n#el-tab-pane#1;n#el-tabs#0;n#el-dialog#0;n#div#3;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-table#0;n#el-tab-pane#1;n#el-tabs#0;n#el-tab-pane#1;n#el-tabs#0;n#el-dialog#0;n#div#3;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-tab-pane#2;n#el-tabs#0;n#el-dialog#0;n#div#3;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-table#0;n#el-tab-pane#2;n#el-tabs#0;n#el-dialog#0;n#div#3;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#template#0;n#el-table-column#2;n#el-table#0;n#el-tab-pane#2;n#el-tabs#0;n#el-dialog#0;n#div#3;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-tab-pane#3;n#el-tabs#0;n#el-dialog#0;n#div#3;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-table#0;n#el-tab-pane#3;n#el-tabs#0;n#el-dialog#0;n#div#3;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#template#0;n#el-table-column#1;n#el-table#0;n#el-tab-pane#3;n#el-tabs#0;n#el-dialog#0;n#div#3;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#div#4;n#div#0;n#template#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#el-checkbox#0;n#el-checkbox-group#0;n#el-form#0;n#el-dialog#0;n#div#4;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-form-item#0;n#el-form#0;n#el-dialog#0;n#div#4;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#div#5;n#div#0;n#template#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#el-checkbox#0;n#el-checkbox-group#0;n#el-form#0;n#el-dialog#0;n#div#5;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-form-item#0;n#el-form#0;n#el-dialog#0;n#div#5;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#template#0;n#el-form-item#2;n#el-form#0;n#el-dialog#0;n#div#6;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#el-form-item#5;n#el-form#0;n#el-dialog#0;n#div#6;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#el-form-item#6;n#el-form#0;n#el-dialog#0;n#div#6;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#el-form-item#7;n#el-form#0;n#el-dialog#0;n#div#6;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-time-select#0;n#el-form-item#8;n#el-form#0;n#el-dialog#0;n#div#6;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-time-select#1;n#el-form-item#8;n#el-form#0;n#el-dialog#0;n#div#6;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#template#0;n#el-form-item#2;n#el-form#0;n#el-dialog#0;n#div#7;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#el-form-item#5;n#el-form#0;n#el-dialog#0;n#div#7;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#el-form-item#6;n#el-form#0;n#el-dialog#0;n#div#7;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#el-form-item#7;n#el-form#0;n#el-dialog#0;n#div#7;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-time-select#0;n#el-form-item#8;n#el-form#0;n#el-dialog#0;n#div#7;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-time-select#1;n#el-form-item#8;n#el-form#0;n#el-dialog#0;n#div#7;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#div#8;n#div#0;n#template#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#img#0;n#el-upload#0;n#el-form-item#2;n#el-form#0;n#el-dialog#0;n#div#8;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#template#0;n#el-form-item#2;n#el-form#0;n#el-dialog#0;n#div#8;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#template#0;n#el-form-item#6;n#el-form#0;n#el-dialog#0;n#div#8;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#div#9;n#div#0;n#template#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#img#0;n#el-upload#0;n#el-form-item#2;n#el-form#0;n#el-dialog#0;n#div#9;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#template#0;n#el-form-item#2;n#el-form#0;n#el-dialog#0;n#div#9;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#template#0;n#el-form-item#6;n#el-form#0;n#el-dialog#0;n#div#9;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#template#0;n#el-form-item#2;n#el-form#0;n#el-dialog#0;n#div#10;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-date-picker#0;n#el-form-item#1;n#div#0;n#el-form#0;n#el-dialog#0;n#div#10;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#template#0;n#el-form-item#2;n#el-form#0;n#el-dialog#0;n#div#11;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-date-picker#0;n#el-form-item#1;n#div#2;n#el-form#0;n#el-dialog#0;n#div#11;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#template#0;n#el-form-item#2;n#el-form#0;n#el-dialog#0;n#div#12;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#template#0;n#el-form-item#2;n#el-form#0;n#el-dialog#0;n#div#13;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#template#0;n#el-form-item#1;n#el-form#0;n#el-dialog#0;n#div#14;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#template#0;n#el-form-item#1;n#el-form#0;n#el-dialog#0;n#div#15;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="e#50222#50262#0" expanded="true" />
+                <element signature="e#59397#59939#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="vue" />
+        <option value="VUE" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>transferPrice</find>
+      <find>discountFee</find>
+      <find>groupListData0</find>
+      <find>transferRules</find>
+      <find>pickerOptions1</find>
+      <find>下架</find>
+      <find>classKind</find>
+      <find>handleRemoveClass</find>
+      <find>copyForm</find>
+      <find>beginTimeChange</find>
+      <find>classData</find>
+      <find>addForm</find>
+      <find>handleOff</find>
+      <find>addSubmitForm</find>
+      <find>detailsNoticeData</find>
+      <find>list</find>
+      <find>addClass</find>
+      <find>normalEditPrice</find>
+      <find>editClass</find>
+      <find>FreeChange</find>
+      <find>addEndTime</find>
+      <find>checkRealName</find>
+      <find>addStartTime</find>
+      <find>addClassRules</find>
+      <find>limitStartTime</find>
+      <find>message/readMessage</find>
+      <find>pickerBeginDateAfter</find>
+      <find>pickerBeginDateBefore</find>
+      <find>pickerEditDateBefore</find>
+      <find>pickerEditDateAfter</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>BMap</replace>
+      <replace>PCAA</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="temporary" />
+      </map>
+    </option>
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/components/page/class/Provision.vue" />
+        <option value="$PROJECT_DIR$/src/components/page/Index.vue" />
+        <option value="$PROJECT_DIR$/src/components/page/staff/AddPower.vue" />
+        <option value="$PROJECT_DIR$/src/components/page/service/Message.vue" />
+        <option value="$PROJECT_DIR$/src/components/page/PersonalTrainersChart.vue" />
+        <option value="$PROJECT_DIR$/src/components/page/MemberChart.vue" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/static/style/main.css" />
+        <option value="$PROJECT_DIR$/src/App.vue" />
+        <option value="$PROJECT_DIR$/src/components/page/frontMsg/OrderList.vue" />
+        <option value="$PROJECT_DIR$/src/components/page/frontMsg/GroupClass.vue" />
+        <option value="$PROJECT_DIR$/src/components/page/frontMsg/PersonalClass.vue" />
+        <option value="$PROJECT_DIR$/src/components/page/frontMsg/BuyRecord.vue" />
+        <option value="$PROJECT_DIR$/src/components/page/print.vue" />
+        <option value="$PROJECT_DIR$/src/components/page/class/PtEditCoach.vue" />
+        <option value="$PROJECT_DIR$/src/components/page/service/MyService.vue" />
+        <option value="$PROJECT_DIR$/src/components/page/service/Wechat.vue" />
+        <option value="$PROJECT_DIR$/src/components/page/staff/Power.vue" />
+        <option value="$PROJECT_DIR$/src/components/page/member/Types.vue" />
+        <option value="$PROJECT_DIR$/src/components/page/staff/StaffMember.vue" />
+        <option value="$PROJECT_DIR$/src/components/page/Step2.vue" />
+        <option value="$PROJECT_DIR$/src/components/page/Password.vue" />
+        <option value="$PROJECT_DIR$/src/components/common/Header.vue" />
+        <option value="$PROJECT_DIR$/src/components/common/Protocol.vue" />
+        <option value="$PROJECT_DIR$/src/components/page/reportForms/Course.vue" />
+        <option value="$PROJECT_DIR$/src/components/page/reportForms/MemberCard.vue" />
+        <option value="$PROJECT_DIR$/src/components/page/reportForms/SignIn.vue" />
+        <option value="$PROJECT_DIR$/build/webpack.base.conf.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/src/components/page/fitnessRoom/Map.vue" />
+        <option value="$PROJECT_DIR$/src/components/page/fitnessRoom/editMap.vue" />
+        <option value="$PROJECT_DIR$/src/common/js/area.js" />
+        <option value="$PROJECT_DIR$/src/components/page/service/Activity.vue" />
+        <option value="$PROJECT_DIR$/src/components/page/member/Members.vue" />
+        <option value="$PROJECT_DIR$/src/components/page/class/PtProvision.vue" />
+        <option value="$PROJECT_DIR$/static/style/index.scss" />
+        <option value="$PROJECT_DIR$/src/components/page/reportForms/MemberCardSale.vue" />
+        <option value="$PROJECT_DIR$/src/common/js/validate.js" />
+        <option value="$PROJECT_DIR$/src/components/page/member/Cards.vue" />
+        <option value="$PROJECT_DIR$/src/components/page/frontMsg/SignInOut.vue" />
+        <option value="$PROJECT_DIR$/src/components/page/frontMsg/MemberCard.vue" />
+        <option value="$PROJECT_DIR$/src/components/page/class/PtCoach.vue" />
+        <option value="$PROJECT_DIR$/src/components/page/class/GroupClassList.vue" />
+        <option value="$PROJECT_DIR$/src/main.js" />
+        <option value="$PROJECT_DIR$/src/router/http.js" />
+        <option value="$PROJECT_DIR$/src/common/js/common.js" />
+        <option value="$PROJECT_DIR$/src/components/common/Sidebar.vue" />
+        <option value="$PROJECT_DIR$/src/components/page/Login.vue" />
+        <option value="$PROJECT_DIR$/src/router/index.js" />
+        <option value="$PROJECT_DIR$/src/components/common/Home.vue" />
+        <option value="$PROJECT_DIR$/src/components/page/fitnessRoom/gymList.vue" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="weidu_erp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weidu_erp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weidu_erp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weidu_erp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weidu_erp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weidu_erp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weidu_erp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weidu_erp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weidu_erp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weidu_erp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weidu_erp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weidu_erp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weidu_erp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weidu_erp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weidu_erp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weidu_erp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+              <item name="class" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weidu_erp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weidu_erp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="router" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weidu_erp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weidu_erp" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weidu_erp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weidu_erp" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="style" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\公司项目\coding\weidu_erp\static\img" />
+      <recent name="E:\公司项目\coding\weidu_erp\src\components\page\frontMsg" />
+      <recent name="E:\公司项目\coding\weidu_erp\src" />
+      <recent name="E:\公司项目\coding\weidu_erp\src\components\assets" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\公司项目\coding\weidu_erp\static\img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\user\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10cc30e7-5a8a-480d-b939-0b38c47055db" name="Default" comment="" />
+      <created>1524119416277</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524119416277</updated>
+      <workItem from="1524119419587" duration="98000" />
+      <workItem from="1524119576228" duration="12984000" />
+      <workItem from="1524190370299" duration="15420000" />
+      <workItem from="1524447608164" duration="5782000" />
+      <workItem from="1524464003446" duration="9291000" />
+      <workItem from="1524536117113" duration="18139000" />
+      <workItem from="1524565134424" duration="1677000" />
+      <workItem from="1524620822440" duration="18067000" />
+      <workItem from="1524709532917" duration="11795000" />
+      <workItem from="1524794960199" duration="22382000" />
+      <workItem from="1524875550831" duration="27704000" />
+      <workItem from="1525223411469" duration="13546000" />
+      <workItem from="1525319115121" duration="5609000" />
+      <workItem from="1525410677595" duration="8106000" />
+      <workItem from="1525654250332" duration="19988000" />
+      <workItem from="1525742647681" duration="19351000" />
+      <workItem from="1525827359542" duration="117000" />
+      <workItem from="1525835726654" duration="993000" />
+      <workItem from="1525843597181" duration="12799000" />
+      <workItem from="1525863244715" duration="332000" />
+      <workItem from="1525863616519" duration="695000" />
+      <workItem from="1525918767090" duration="12953000" />
+      <workItem from="1525950795331" duration="234000" />
+      <workItem from="1526006872397" duration="14700000" />
+      <workItem from="1526263597955" duration="21526000" />
+      <workItem from="1526349533160" duration="20247000" />
+      <workItem from="1526435428265" duration="24097000" />
+      <workItem from="1526522001980" duration="21297000" />
+      <workItem from="1526608720860" duration="26544000" />
+      <workItem from="1526698555397" duration="15468000" />
+      <workItem from="1526869132263" duration="13816000" />
+      <workItem from="1526955844377" duration="11738000" />
+      <workItem from="1527042021218" duration="7078000" />
+      <workItem from="1527128182817" duration="11183000" />
+      <workItem from="1527215977979" duration="10515000" />
+      <workItem from="1527474277216" duration="7128000" />
+      <workItem from="1527559007304" duration="13250000" />
+      <workItem from="1527646208861" duration="4143000" />
+      <workItem from="1527732258946" duration="1217000" />
+      <workItem from="1527739228184" duration="62000" />
+      <workItem from="1528105030145" duration="1001000" />
+      <workItem from="1528183252594" duration="615000" />
+      <workItem from="1528277112495" duration="4545000" />
+      <workItem from="1528338056724" duration="11630000" />
+      <workItem from="1528424488375" duration="628000" />
+      <workItem from="1528427713327" duration="1354000" />
+      <workItem from="1528429635718" duration="14577000" />
+      <workItem from="1528684021285" duration="3889000" />
+      <workItem from="1528694971852" duration="12076000" />
+      <workItem from="1528709881325" duration="9422000" />
+      <workItem from="1528769339550" duration="21875000" />
+      <workItem from="1528855493130" duration="26988000" />
+      <workItem from="1528951337578" duration="596000" />
+      <workItem from="1528954128287" duration="1402000" />
+      <workItem from="1528956004891" duration="13875000" />
+      <workItem from="1529029997503" duration="23919000" />
+      <workItem from="1529374369780" duration="2382000" />
+      <workItem from="1529472977227" duration="10079000" />
+      <workItem from="1529546458873" duration="13345000" />
+      <workItem from="1529630946356" duration="595000" />
+      <workItem from="1529657836731" duration="122000" />
+      <workItem from="1529661802475" duration="693000" />
+      <workItem from="1529892171419" duration="2736000" />
+      <workItem from="1529980724536" duration="1211000" />
+      <workItem from="1529999888223" duration="4674000" />
+      <workItem from="1530082049803" duration="6166000" />
+      <workItem from="1530510891888" duration="4990000" />
+      <workItem from="1530584062770" duration="2005000" />
+      <workItem from="1530857175069" duration="835000" />
+      <workItem from="1531293304692" duration="2478000" />
+      <workItem from="1531478954127" duration="135000" />
+      <workItem from="1531707447507" duration="18332000" />
+      <workItem from="1531806174604" duration="11590000" />
+      <workItem from="1531882625924" duration="2337000" />
+      <workItem from="1531966916523" duration="1794000" />
+      <workItem from="1532066495877" duration="14056000" />
+      <workItem from="1532314429404" duration="1717000" />
+      <workItem from="1532401503756" duration="17435000" />
+      <workItem from="1532503576061" duration="1853000" />
+    </task>
+    <task id="LOCAL-00008" summary="[add]签到签出&#10;[bug]修复bug">
+      <created>1524922979731</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1524922979731</updated>
+    </task>
+    <task id="LOCAL-00009" summary="[bug]修复bug">
+      <created>1525258333728</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1525258333728</updated>
+    </task>
+    <task id="LOCAL-00010" summary="[bug]修复bug">
+      <created>1525342772794</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1525342772794</updated>
+    </task>
+    <task id="LOCAL-00011" summary="[bug]修复bug">
+      <created>1525342791691</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1525342791691</updated>
+    </task>
+    <task id="LOCAL-00012" summary="[bug]修复bug">
+      <created>1525430957871</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1525430957871</updated>
+    </task>
+    <task id="LOCAL-00013" summary="[bug]修复bug">
+      <created>1525690065842</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1525690065842</updated>
+    </task>
+    <task id="LOCAL-00014" summary="[add]售卖卡课">
+      <created>1525777347201</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1525777347201</updated>
+    </task>
+    <task id="LOCAL-00015" summary="[add]售卖卡课(私教课售卖、提交成功、打印小票)">
+      <created>1525862868063</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1525862868064</updated>
+    </task>
+    <task id="LOCAL-00016" summary="[add]售卖卡课(样式调整)">
+      <created>1525950921676</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1525950921676</updated>
+    </task>
+    <task id="LOCAL-00017" summary="[add]售卖卡课(查询会员信息，购买记录，预约记录)">
+      <created>1526033756629</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1526033756629</updated>
+    </task>
+    <task id="LOCAL-00018" summary="[add]售卖卡课(会员办卡)">
+      <created>1526295363236</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1526295363236</updated>
+    </task>
+    <task id="LOCAL-00019" summary="[add]售卖卡课（私教课售卖）">
+      <created>1526382049857</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1526382049857</updated>
+    </task>
+    <task id="LOCAL-00020" summary="[add]售卖卡课（私教课售卖）">
+      <created>1526468271475</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1526468271475</updated>
+    </task>
+    <task id="LOCAL-00021" summary="[add]售卖卡课（团课预约、私教设置调整）">
+      <created>1526556107838</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1526556107839</updated>
+    </task>
+    <task id="LOCAL-00022" summary="[add]服务号管理（团课团课课表/退课/销课）">
+      <created>1526645191640</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1526645191640</updated>
+    </task>
+    <task id="LOCAL-00023" summary="[add]优化功能">
+      <created>1526723107989</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1526723107989</updated>
+    </task>
+    <task id="LOCAL-00024" summary="[add]改bug">
+      <created>1526900645407</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1526900645407</updated>
+    </task>
+    <task id="LOCAL-00025" summary="[add]改bug">
+      <created>1526988022217</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1526988022217</updated>
+    </task>
+    <task id="LOCAL-00026" summary="[add]改bug">
+      <created>1527071544695</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1527071544695</updated>
+    </task>
+    <task id="LOCAL-00027" summary="[add]改bug">
+      <created>1527158364476</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1527158364476</updated>
+    </task>
+    <task id="LOCAL-00028" summary="[add]改bug">
+      <created>1527244306881</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1527244306881</updated>
+    </task>
+    <task id="LOCAL-00029" summary="[add]服务/活动预约">
+      <created>1527504629142</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1527504629142</updated>
+    </task>
+    <task id="LOCAL-00030" summary="[add]活动预约">
+      <created>1527588814323</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1527588814323</updated>
+    </task>
+    <task id="LOCAL-00031" summary="[update]修改图标">
+      <created>1527677959296</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1527677959296</updated>
+    </task>
+    <task id="LOCAL-00032" summary="[add]改bug">
+      <created>1528107615079</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1528107615079</updated>
+    </task>
+    <task id="LOCAL-00033" summary="[add]改bug">
+      <created>1528281675359</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1528281675359</updated>
+    </task>
+    <task id="LOCAL-00034" summary="[add]报表导出">
+      <created>1528367677570</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1528367677570</updated>
+    </task>
+    <task id="LOCAL-00035" summary="[add]修改密码/私教管理">
+      <created>1528455021307</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1528455021307</updated>
+    </task>
+    <task id="LOCAL-00036" summary="[add]私教管理、活动协议">
+      <created>1528720360105</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1528720360105</updated>
+    </task>
+    <task id="LOCAL-00037" summary="[add]会员卡管理/退款">
+      <created>1528804240040</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1528804240040</updated>
+    </task>
+    <task id="LOCAL-00038" summary="[add]改bug">
+      <created>1528809316068</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1528809316068</updated>
+    </task>
+    <task id="LOCAL-00039" summary="[bug]未度app管理/编辑场馆/地图显示问题">
+      <created>1528892251853</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1528892251853</updated>
+    </task>
+    <task id="LOCAL-00040" summary="[bug]未度app管理/编辑场馆/地图显示问题">
+      <created>1528970732700</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1528970732700</updated>
+    </task>
+    <task id="LOCAL-00041" summary="[bug]未度app管理/地区选择插件更新版本&#10;[add]服务/活动内容提示">
+      <created>1528983119579</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1528983119580</updated>
+    </task>
+    <task id="LOCAL-00042" summary="[bug]场馆地区选择、服务活动状态">
+      <created>1529032871134</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1529032871134</updated>
+    </task>
+    <task id="LOCAL-00043" summary="[bug]同步temporary分支">
+      <created>1529033700616</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1529033700616</updated>
+    </task>
+    <task id="LOCAL-00044" summary="[bug]修复">
+      <created>1529042242281</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1529042242281</updated>
+    </task>
+    <task id="LOCAL-00045" summary="[add]会员卡管理/会员卡转让">
+      <created>1529063888329</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1529063888329</updated>
+    </task>
+    <task id="LOCAL-00046" summary="[bug]1.3版本bug修复">
+      <created>1529492063316</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1529492063317</updated>
+    </task>
+    <task id="LOCAL-00047" summary="[bug]修复">
+      <created>1529577766904</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1529577766904</updated>
+    </task>
+    <task id="LOCAL-00048" summary="[bug]修复">
+      <created>1530009921222</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1530009921222</updated>
+    </task>
+    <task id="LOCAL-00049" summary="[bug]修复">
+      <created>1530094083654</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1530094083654</updated>
+    </task>
+    <task id="LOCAL-00050" summary="[bug]修复">
+      <created>1530516638166</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1530516638166</updated>
+    </task>
+    <task id="LOCAL-00051" summary="[bug]修复">
+      <created>1530858004394</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1530858004395</updated>
+    </task>
+    <task id="LOCAL-00052" summary="[add]v1.4课程下架、添加编辑课程、团课课表去掉复制课程的健身房选项">
+      <created>1531738477827</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1531738477827</updated>
+    </task>
+    <task id="LOCAL-00053" summary="[add]v1.4未度购买课程\未度app管理\erp信息通知">
+      <created>1531824439492</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1531824439492</updated>
+    </task>
+    <task id="LOCAL-00054" summary="[add]v1.4加载出错跳转登录页">
+      <created>1532082396504</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1532082396505</updated>
+    </task>
+    <task id="LOCAL-00055" summary="[bug]v1.4修复">
+      <created>1532429868597</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1532429868597</updated>
+    </task>
+    <task id="LOCAL-00056" summary="[bug]v1.4修复">
+      <created>1532506760183</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1532506760183</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="732315000" />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15453586" sideWeight="0.49015316" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11777535" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15453586" sideWeight="0.5098468" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15453586" sideWeight="0.5098468" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23991276" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16877638" sideWeight="0.5057637" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16561182" sideWeight="0.49423632" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16877638" sideWeight="0.5057637" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="false" />
+    <MESSAGE value="[add]售卖卡课(查询会员信息，购买记录，预约记录)" />
+    <MESSAGE value="[add]售卖卡课(会员办卡)" />
+    <MESSAGE value="[add]售卖卡课（私教课售卖）" />
+    <MESSAGE value="[add]售卖卡课（团课预约、私教设置调整）" />
+    <MESSAGE value="[add]服务号管理（团课团课课表/退课/销课）" />
+    <MESSAGE value="[add]优化功能" />
+    <MESSAGE value="[add]服务/活动预约" />
+    <MESSAGE value="[add]活动预约" />
+    <MESSAGE value="[update]修改图标" />
+    <MESSAGE value="[add]报表导出" />
+    <MESSAGE value="[add]修改密码/私教管理" />
+    <MESSAGE value="[add]私教管理、活动协议" />
+    <MESSAGE value="[add]会员卡管理/退款" />
+    <MESSAGE value="[add]改bug" />
+    <MESSAGE value="[bug]未度app管理/编辑场馆/地图显示问题" />
+    <MESSAGE value="[bug]未度app管理/地区选择插件更新版本&#10;[add]服务/活动内容提示" />
+    <MESSAGE value="[bug]场馆地区选择、服务活动状态" />
+    <MESSAGE value="[bug]同步temporary分支" />
+    <MESSAGE value="[add]会员卡管理/会员卡转让" />
+    <MESSAGE value="[bug]1.3版本bug修复" />
+    <MESSAGE value="[bug]修复" />
+    <MESSAGE value="[add]v1.4课程下架、添加编辑课程、团课课表去掉复制课程的健身房选项" />
+    <MESSAGE value="[add]v1.4未度购买课程\未度app管理\erp信息通知" />
+    <MESSAGE value="[add]v1.4加载出错跳转登录页" />
+    <MESSAGE value="[bug]v1.4修复" />
+    <option name="LAST_COMMIT_MESSAGE" value="[bug]v1.4修复" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="16" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/components/page/RegMessage.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/page/PersonalTrainersChart.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/page/Password.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="66" column="21" lean-forward="false" selection-start-line="66" selection-start-column="12" selection-end-line="66" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/page/Step1.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2546">
+          <caret line="137" column="26" lean-forward="false" selection-start-line="137" selection-start-column="12" selection-end-line="137" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/page/print.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="142" column="8" lean-forward="true" selection-start-line="114" selection-start-column="6" selection-end-line="142" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="35" lean-forward="false" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/js/area.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2071">
+          <caret line="109" column="3" lean-forward="false" selection-start-line="109" selection-start-column="3" selection-end-line="109" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/page/service/Activity.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6156">
+          <caret line="324" column="24" lean-forward="true" selection-start-line="324" selection-start-column="24" selection-end-line="324" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/page/Step2.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1007">
+          <caret line="57" column="58" lean-forward="false" selection-start-line="57" selection-start-column="48" selection-end-line="57" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/style/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/vue-loader.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/webpack.base.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="39" column="5" lean-forward="false" selection-start-line="39" selection-start-column="5" selection-end-line="42" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/style/index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1957">
+          <caret line="103" column="14" lean-forward="false" selection-start-line="103" selection-start-column="14" selection-end-line="103" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/page/reportForms/Course.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="21" lean-forward="false" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/page/reportForms/SignIn.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/page/member/Types.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="101" lean-forward="false" selection-start-line="6" selection-start-column="101" selection-end-line="6" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/page/member/Members.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12996">
+          <caret line="686" column="11" lean-forward="false" selection-start-line="686" selection-start-column="11" selection-end-line="686" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/page/reportForms/MemberCardSale.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="80" column="0" lean-forward="false" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/page/fitnessRoom/editMap.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="68" column="7" lean-forward="true" selection-start-line="68" selection-start-column="7" selection-end-line="68" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/page/fitnessRoom/Map.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="53" lean-forward="true" selection-start-line="32" selection-start-column="53" selection-end-line="32" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/page/member/Cards.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="693" column="25" lean-forward="false" selection-start-line="693" selection-start-column="25" selection-end-line="693" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/page/reportForms/MemberCard.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-874">
+          <caret line="20" column="21" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/page/frontMsg/PersonalClass.vue" />
+    <entry file="file://$PROJECT_DIR$/src/components/page/frontMsg/SignInOut.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="935" column="44" lean-forward="false" selection-start-line="935" selection-start-column="44" selection-end-line="935" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/page/frontMsg/OrderList.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="55" lean-forward="false" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/page/frontMsg/BuyRecord.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/page/frontMsg/MemberCard.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="84" column="47" lean-forward="false" selection-start-line="84" selection-start-column="47" selection-end-line="84" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/page/frontMsg/GroupClass.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="138" column="27" lean-forward="false" selection-start-line="138" selection-start-column="27" selection-end-line="138" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/common/Area.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2223">
+          <caret line="117" column="17" lean-forward="false" selection-start-line="117" selection-start-column="17" selection-end-line="117" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/common/Header.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="25" lean-forward="false" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/common/Protocol.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="848">
+          <caret line="382" column="0" lean-forward="false" selection-start-line="382" selection-start-column="0" selection-end-line="382" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/page/class/GroupClassList.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34827">
+          <caret line="1836" column="38" lean-forward="false" selection-start-line="1836" selection-start-column="38" selection-end-line="1836" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/page/fitnessRoom/AppBuyClass.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8873">
+          <caret line="470" column="28" lean-forward="false" selection-start-line="470" selection-start-column="28" selection-end-line="470" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/page/class/PtProvision.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3667">
+          <caret line="193" column="52" lean-forward="false" selection-start-line="193" selection-start-column="41" selection-end-line="193" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/page/Main.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="32" lean-forward="false" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/page/Index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="40" lean-forward="false" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/page/MemberChart.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/router/http.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/common/Sidebar.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="192" column="0" lean-forward="false" selection-start-line="192" selection-start-column="0" selection-end-line="192" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/page/Step3.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="144" column="33" lean-forward="true" selection-start-line="144" selection-start-column="33" selection-end-line="144" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/page/Step4.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/page/Login.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="77" column="8" lean-forward="true" selection-start-line="77" selection-start-column="8" selection-end-line="77" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/js/validate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="122" column="44" lean-forward="true" selection-start-line="122" selection-start-column="44" selection-end-line="122" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="39" column="16" lean-forward="false" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="279" column="6" lean-forward="true" selection-start-line="279" selection-start-column="6" selection-end-line="279" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/page/class/PtCoach.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="597" column="11" lean-forward="true" selection-start-line="595" selection-start-column="10" selection-end-line="597" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/common/Home.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="475" column="13" lean-forward="true" selection-start-line="475" selection-start-column="13" selection-end-line="475" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/page/fitnessRoom/gymList.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="548">
+          <caret line="1301" column="23" lean-forward="true" selection-start-line="1301" selection-start-column="23" selection-end-line="1301" selection-end-column="23" />
+          <folding>
+            <element signature="n#div#1;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#el-table#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#el-tab-pane#0;n#el-tabs#0;n#el-dialog#0;n#div#3;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-table#0;n#el-tab-pane#0;n#el-tabs#0;n#el-dialog#0;n#div#3;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-tab-pane#1;n#el-tabs#0;n#el-dialog#0;n#div#3;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-tab-pane#0;n#el-tabs#0;n#el-tab-pane#1;n#el-tabs#0;n#el-dialog#0;n#div#3;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-table#0;n#el-tab-pane#0;n#el-tabs#0;n#el-tab-pane#1;n#el-tabs#0;n#el-dialog#0;n#div#3;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#template#0;n#el-table-column#1;n#el-table#0;n#el-tab-pane#0;n#el-tabs#0;n#el-tab-pane#1;n#el-tabs#0;n#el-dialog#0;n#div#3;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#template#0;n#el-table-column#6;n#el-table#0;n#el-tab-pane#0;n#el-tabs#0;n#el-tab-pane#1;n#el-tabs#0;n#el-dialog#0;n#div#3;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-tab-pane#1;n#el-tabs#0;n#el-tab-pane#1;n#el-tabs#0;n#el-dialog#0;n#div#3;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-table#0;n#el-tab-pane#1;n#el-tabs#0;n#el-tab-pane#1;n#el-tabs#0;n#el-dialog#0;n#div#3;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-tab-pane#2;n#el-tabs#0;n#el-dialog#0;n#div#3;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-table#0;n#el-tab-pane#2;n#el-tabs#0;n#el-dialog#0;n#div#3;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#template#0;n#el-table-column#2;n#el-table#0;n#el-tab-pane#2;n#el-tabs#0;n#el-dialog#0;n#div#3;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-tab-pane#3;n#el-tabs#0;n#el-dialog#0;n#div#3;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-table#0;n#el-tab-pane#3;n#el-tabs#0;n#el-dialog#0;n#div#3;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#template#0;n#el-table-column#1;n#el-table#0;n#el-tab-pane#3;n#el-tabs#0;n#el-dialog#0;n#div#3;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#div#4;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#el-checkbox#0;n#el-checkbox-group#0;n#el-form#0;n#el-dialog#0;n#div#4;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-form-item#0;n#el-form#0;n#el-dialog#0;n#div#4;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#div#5;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#el-checkbox#0;n#el-checkbox-group#0;n#el-form#0;n#el-dialog#0;n#div#5;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-form-item#0;n#el-form#0;n#el-dialog#0;n#div#5;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#template#0;n#el-form-item#2;n#el-form#0;n#el-dialog#0;n#div#6;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#el-form-item#5;n#el-form#0;n#el-dialog#0;n#div#6;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#el-form-item#6;n#el-form#0;n#el-dialog#0;n#div#6;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#el-form-item#7;n#el-form#0;n#el-dialog#0;n#div#6;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-time-select#0;n#el-form-item#8;n#el-form#0;n#el-dialog#0;n#div#6;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-time-select#1;n#el-form-item#8;n#el-form#0;n#el-dialog#0;n#div#6;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#template#0;n#el-form-item#2;n#el-form#0;n#el-dialog#0;n#div#7;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#el-form-item#5;n#el-form#0;n#el-dialog#0;n#div#7;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#el-form-item#6;n#el-form#0;n#el-dialog#0;n#div#7;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#el-form-item#7;n#el-form#0;n#el-dialog#0;n#div#7;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-time-select#0;n#el-form-item#8;n#el-form#0;n#el-dialog#0;n#div#7;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-time-select#1;n#el-form-item#8;n#el-form#0;n#el-dialog#0;n#div#7;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#div#8;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#el-upload#0;n#el-form-item#2;n#el-form#0;n#el-dialog#0;n#div#8;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#template#0;n#el-form-item#2;n#el-form#0;n#el-dialog#0;n#div#8;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#template#0;n#el-form-item#6;n#el-form#0;n#el-dialog#0;n#div#8;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#div#9;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#el-upload#0;n#el-form-item#2;n#el-form#0;n#el-dialog#0;n#div#9;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#template#0;n#el-form-item#2;n#el-form#0;n#el-dialog#0;n#div#9;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#template#0;n#el-form-item#6;n#el-form#0;n#el-dialog#0;n#div#9;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#template#0;n#el-form-item#2;n#el-form#0;n#el-dialog#0;n#div#10;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-date-picker#0;n#el-form-item#1;n#div#0;n#el-form#0;n#el-dialog#0;n#div#10;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#template#0;n#el-form-item#2;n#el-form#0;n#el-dialog#0;n#div#11;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-date-picker#0;n#el-form-item#1;n#div#2;n#el-form#0;n#el-dialog#0;n#div#11;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#template#0;n#el-form-item#2;n#el-form#0;n#el-dialog#0;n#div#12;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#template#0;n#el-form-item#2;n#el-form#0;n#el-dialog#0;n#div#13;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#template#0;n#el-form-item#1;n#el-form#0;n#el-dialog#0;n#div#14;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#template#0;n#el-form-item#1;n#el-form#0;n#el-dialog#0;n#div#15;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="e#50222#50262#0" expanded="true" />
+            <element signature="e#59397#59939#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

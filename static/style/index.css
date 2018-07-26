@@ -1,0 +1,95 @@
+@charset "UTF-8";
+/*绛惧埌绛惧嚭*/
+.redColor {
+  color: #ff0000;
+  font-size: 20px; }
+
+.noQuit-list {
+  margin: 30px 0; }
+
+.noQuit-list .el-checkbox {
+  display: block;
+  line-height: 30px; }
+
+.quitButton {
+  text-align: center; }
+
+.noCard {
+  font-size: 24px;
+  text-align: center;
+  margin-top: 50px; }
+
+.user-msg {
+  margin-left: 20px;
+  font-size: 14px;
+  line-height: 1.5; }
+
+.user-msg .name {
+  font-size: 16px;
+  margin-bottom: 10px; }
+
+.revoke {
+  margin-top: 100px;
+  color: #ff4b00;
+  font-weight: bold;
+  font-size: 14px; }
+
+.isExpire {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 14px; }
+
+.activate {
+  position: absolute;
+  bottom: 80px;
+  right: 40px;
+  color: #ff4b00;
+  font-size: 14px; }
+
+.card-msg {
+  background-color: #ff4b00;
+  border-radius: 10px;
+  width: 70%;
+  line-height: 26px;
+  padding: 16px;
+  font-size: 16px;
+  color: #ffffff;
+  margin-top: 30px; }
+
+.member-info {
+  position: relative;
+  width: 600px;
+  height: 350px;
+  margin: 30px auto;
+  padding: 40px;
+  box-sizing: border-box;
+  box-shadow: 1px 2px 5px 2px #DDDDDD; }
+
+.result-list {
+  position: relative;
+  width: 600px;
+  max-height: 300px;
+  overflow: auto;
+  margin: 0 auto;
+  border: 1px solid #dcdfe6;
+  margin-top: -2px;
+  z-index: 3;
+  background-color: #ffffff;
+  border-bottom: 0;
+  box-sizing: border-box;
+  color: #666666; }
+
+.sale-class {
+  box-shadow: none;
+  border: 1px solid #eeeeee;
+  padding: 0; }
+  .sale-class .sale-header {
+    height: 50px;
+    width: 100%; }
+    .sale-class .sale-header .status {
+      display: block;
+      padding: 10px;
+      background-color: #f9690e;
+      color: #ffffff; }
+
+/*# sourceMappingURL=index.css.map */
